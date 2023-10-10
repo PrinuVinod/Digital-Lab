@@ -1,0 +1,9 @@
+# Reading C:/altera/11.0/modelsim_ase/tcl/vsim/pref.tcl 
+project open {D:/Digital Lab programs/plscm}
+# Loading project plscm
+vsim work.nottest
+# vsim work.nottest 
+# Loading work.nottest
+# Loading work.not1
+add wave sim:/nottest/*
+run -all

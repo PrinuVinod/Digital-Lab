@@ -1,0 +1,15 @@
+{D:/Digital Lab programs/testbenchor.v} {1 {vlog -work work -nocovercells {D:/Digital Lab programs/testbenchor.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module ortest
+
+Top level modules:
+	ortest
+
+} {} {}} {D:/Digital Lab programs/or1.v} {1 {vlog -work work -nocovercells {D:/Digital Lab programs/or1.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1
+
+Top level modules:
+	or1
+
+} {} {}}

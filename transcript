@@ -1,0 +1,15 @@
+# Reading C:/altera/11.0/modelsim_ase/tcl/vsim/pref.tcl 
+# Loading project plscm
+# Compile of pls.v was successful.
+# Compile of pls.v was successful.
+# Compile of testbench.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of pls.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.nottest
+# vsim work.nottest 
+# Loading work.nottest
+# Loading work.not1
+add wave sim:/nottest/*
+run -all
